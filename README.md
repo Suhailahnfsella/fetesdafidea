@@ -36,7 +36,7 @@ Jika berhasil, maka akan tampil halaman **Sign In** seperti berikut:
 ## Fitur Aplikasi
 
 ### 1. Login ke Aplikasi
-Akses API dan dapatkan Token di [sini] (https://gorest.co.in/)
+Akses API dan dapatkan Token di [sini](https://gorest.co.in/)
 
 ![Generate Token](https://drive.google.com/uc?export=view&id=1P3hwDIBMn2I9aR0ygNwmUpgNZA9mY8cz)
 
