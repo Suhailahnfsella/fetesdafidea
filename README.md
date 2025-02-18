@@ -36,6 +36,12 @@ Jika berhasil, maka akan tampil halaman **Sign In** seperti berikut:
 ## Fitur Aplikasi
 
 ### 1. Login ke Aplikasi
+Akses API dan dapatkan Token di [sini] (https://gorest.co.in/)
+![Generate Token](https://drive.google.com/uc?export=view&id=1P3hwDIBMn2I9aR0ygNwmUpgNZA9mY8cz)
+
+Lalu buatlah file .env di dalam projekmu dan isi dengan
+VUE_APP_API_TOKEN = _isi dengan token yang sudah dicopy paste_
+
 Coba login menggunakan salah satu email user dari API ini:
 [https://gorest.co.in/public/v2/users](https://gorest.co.in/public/v2/users)
 
