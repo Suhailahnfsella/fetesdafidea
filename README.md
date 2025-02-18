@@ -26,6 +26,7 @@ npm install
 npm run serve
 ```
 Setelah dijalankan, buka browser dan akses: [http://localhost:8080](http://localhost:8080)
+
 _URL tidak selalu sama persis, ada versi 8081, 8082, dst. sesuai yang ditentukan server._
 
 Jika berhasil, maka akan tampil halaman **Sign In** seperti berikut:
