@@ -1,5 +1,5 @@
 const API_URL = 'https://gorest.co.in/public/v2';
-const API_TOKEN = 'dbec8972d445162afab3d263b1ab881952227b226fa3cf0744043fec3483e02a';
+const API_TOKEN = process.env.VUE_APP_API_TOKEN;
 
 const headers = {
     'Authorization': `Bearer ${API_TOKEN}`,
