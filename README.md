@@ -37,7 +37,7 @@ Jika berhasil, maka akan tampil halaman **Sign In** seperti berikut:
 
 ### 1. Login ke Aplikasi
 Akses API dan dapatkan Token di [sini] (https://gorest.co.in/)
-![Generate Token](https://drive.google.com/uc?export=view&id=1P3hwDIBMn2I9aR0ygNwmUpgNZA9mY8cz)
+[Generate Token](https://drive.google.com/uc?export=view&id=1P3hwDIBMn2I9aR0ygNwmUpgNZA9mY8cz)
 
 Lalu buatlah file .env di dalam projekmu dan isi dengan
 VUE_APP_API_TOKEN = _isi dengan token yang sudah dicopy paste_
