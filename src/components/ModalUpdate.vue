@@ -110,7 +110,7 @@ export default {
 
     const handleSubmit = async () => {
       nameError.value = validateRequired(localUser.value.name) || validateOnlyLetters(localUser.value.name) || validateMaxLength(localUser.value.name, 30);
-      emailError.value = validateRequired(localUser.value.email) || validateEmail(localUser.value.email) || await validateUniqueEmailUpdate(localUser.value.email, localUser);
+      emailError.value = validateRequired(localUser.value.email) || validateEmail(localUser.value.email) || await validateUniqueEmailUpdate(localUser.value.email, localUser.value.id);
       genderError.value = validateSelect(localUser.value.gender);
       statusError.value = validateSelect(localUser.value.status);
 
